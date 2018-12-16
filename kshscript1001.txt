@@ -1,0 +1,2 @@
+## Test
+now=`date '+%Y-%M-%D'`
